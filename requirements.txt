@@ -1,0 +1,5 @@
+PYTHON VERSION 13.3.1
+
+PYTHON PACKAGES:
+	- flask
+	- pyodbc
